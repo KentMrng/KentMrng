@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+Experienced CFX artist working in the animation industry.
+Proficient in Maya, Houdini and Python.
+- Creation of simulation rigs
+- Run Simulation for shotwork
+- Creation and development of workflow and pipeline tools
