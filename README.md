@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 
-Experienced CFX artist working in the animation industry in Japan.
+I'm experienced CFX artist working in the animation industry in Japan.
+
 Proficient in Maya, Houdini and Python.
 - Creation of simulation rigs
 - Run Simulation for shotwork
