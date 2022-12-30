@@ -22,3 +22,7 @@ Proficient in Maya, Houdini and Python.
 - Creation of simulation rigs
 - Run Simulation for shotwork
 - Creation and development of workflow and pipeline tools
+
+
+
+- Currentry learning C++
