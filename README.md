@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 I'm experienced CFX artist working in VFX/3DCGAnimation industry in Japan.
 
 Proficient in Maya, Houdini and Python.
-- Creation of simulation rigs
+- Creation of simulation rigs for Cloth, Hair, Fur, Feather, and Props.
 - Run Simulation for shotwork
 - Creation and development of workflow and pipeline tools
 
